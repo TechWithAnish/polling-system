@@ -53,7 +53,7 @@ Welcome to the Live Polling System, a real-time polling application I developed 
 2. Open your browser and go to `http://localhost:3001` (or the port specified in `server.js`).
 
 ## Deployment
-This project is deployed on Render. Check it out live at [https://polling-system-app.onrender.com](https://polling-system-app.onrender.com) (replace with your actual deployed URL).
+This project is deployed on Render. Check it out live at [https://live-polling-system-ar.netlify.app](https://live-polling-system-ar.netlify.app) (replace with your actual deployed URL).
 
 ## Usage
 - **Teachers**: Access the teacher interface to create a new poll by entering a question and at least two options, then monitor live results.
